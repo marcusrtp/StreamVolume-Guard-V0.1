@@ -1,5 +1,7 @@
 # StreamVolume Guard
 
+> Important : StreamVolume Guard est l'extension navigateur. Elle ne gere pas tout le son du PC toute seule : elle agit surtout sur les sites web quand le navigateur le permet. Pour equilibrer correctement l'ensemble des sources audio Windows, navigateur, jeux, Discord, VLC, Spotify desktop, sons systeme et mixeur Windows, utilise le projet complet **StreamVolume Guard Hub** : [github.com/Fredo0xJtl/StreamVolume-Guard-Hub](https://github.com/Fredo0xJtl/StreamVolume-Guard-Hub).
+
 StreamVolume Guard aide les streamers à éviter les pics audio et les écarts de volume entre YouTube, Twitch, TikTok, Kick et les autres sites vidéo.
 
 L'extension est open source, sans tracker et sans collecte de données : aucune donnée n'est récupérée, et le traitement audio reste local sur la machine de l'utilisateur.
